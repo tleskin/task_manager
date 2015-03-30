@@ -3,4 +3,7 @@ tasks:
 - id: 1
   title: Homework
   description: Do the Task Manager assignment
-total: 1
+- id: 2
+  title: Grocery Shopping
+  description: Go grocery shopping to King Soopers, Whole Foods and Sprouts.
+total: 2
