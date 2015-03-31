@@ -1,5 +1,15 @@
-<h1>All Tasks</h1>
-
-<% @tasks.each do |task| %>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="/application.css">
+  <title>My Sinatra Application</title>
+</head>
+<body>
+  <h1>All Tasks</h1>
+  <div class="tasks">
+  <% @tasks.each do |task| %>
   <h3><%= task.id %>: <a href="/tasks/<%= task.id %>"><%= task.title %></a></h3>
-<% end %>
+  <% end %>
+</div>
+</body>
+</html>

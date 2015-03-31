@@ -1,0 +1,41 @@
+body{
+  background-color: #f7f7f7;
+  font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+  margin : auto;
+}
+
+header_text{
+  font-size: 25px;
+  color: white;
+  font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+}
+
+.box
+{
+    background-color: #3b5998;
+    border: 1px solid #3b5998;
+    color: #333333;
+    padding: 10px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+h1{
+  font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+  font-size: 18px;
+  color: #666666;
+}
+
+a{
+  color: #FF0000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #cccccc;
+  text-decoration: none;
+}
+
+.styling{
+ margin-left: 25px;
+}

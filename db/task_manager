@@ -9,4 +9,7 @@ tasks:
 - id: 3
   title: Gym
   description: Workout with Alison
-total: 3
+- id: 4
+  title: Dancing
+  description: Go to dancing class.
+total: 4
